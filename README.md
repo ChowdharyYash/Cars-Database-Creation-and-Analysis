@@ -241,7 +241,7 @@ The project includes comprehensive visual documentation:
    - Include electric and hybrid vehicle comparisons
    - Add real-time fuel price integration for cost analysis
 
-## 🏆 Project Highlights for Recruiters
+## 🏆 Project Highlights
 
 This project showcases:
 - **Strong SQL fundamentals** with practical business applications
@@ -255,7 +255,7 @@ This project showcases:
 **Yash Chowdhary**
 - GitHub: [@ChowdharyYash](https://github.com/ChowdharyYash)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/yash2011/)
-- Email: [yashchowdhary0002@gmail.com] (yashchowdhary0002@gmail.com)<!-- TODO: Add your email -->
+- Email: [yashchowdhary0002@gmail.com](yashchowdhary0002@gmail.com)<!-- TODO: Add your email -->
 
 ## 📚 References
 
